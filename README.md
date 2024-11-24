@@ -18,7 +18,7 @@
   <a href="https://github.com/dungken" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/@dungk3n" alt="Youtube channel" target="_blank" >
+  <a href="https://www.youtube.com/@dungken2112" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="mailto:brave2112love@gmail.com" alt="Email">
