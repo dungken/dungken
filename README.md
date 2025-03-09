@@ -3,9 +3,9 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-😊 I’m currently learning Backend <br/>
+😊 I’m currently learning AI & Data Engineering <br/>
 🌱 I’m 3th-year student at University of Transport and Communications campus in HCMC <br/>
-📫 Get in touch with me <u><b>brave2112love@gmail.com</b></u> <br/>
+📫 Get in touch with me <u><b>dungken2211@gmail.com</b></u> <br/>
 <br />
 ## 📫 How to reach me:
 <p align="center">
@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/@dungken2112" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="mailto:brave2112love@gmail.com" alt="Email">
+  <a href="mailto:dungken2211@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
