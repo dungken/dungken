@@ -6,17 +6,33 @@
 🔹 **About Me**  
 🚀 I’m currently learning **AI & Data Engineering**  
 🎓 3rd-year student at **University of Transport and Communications, HCMC Campus**  
-💡 Passionate about **Software Engineering, AI, Data, and Cloud Computing**  
-💻 Experienced in **Python, Java, .NET Core, SQL, React TypeScript**  
+💡 Passionate about **Backend Development, AI, and Cloud Computing**  
+💻 Experienced in **.NET Core, SQL Server, ReactJS, and Flutter**  
 📌 Always eager to explore new technologies and best practices  
 
 ---
 
 ## 🚀 Tech Stack & Tools:
-- **Programming Languages**: C#, Python, JavaScript, C++  
-- **Frameworks & Libraries**: .NET Core, React TypeScript, TensorFlow  
-- **Databases**: SQL Server, PostgreSQL, Firebase  
-- **DevOps & Tools**: Docker, Kubernetes, Git, CI/CD  
+
+### 🔹 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### 🔹 Frameworks & Libraries  
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+### 🔹 Databases  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### 🔹 Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
@@ -49,5 +65,4 @@
 
 ---
 
-⭐ **Fun Fact:** *"I turn coffee ☕ into clean code!"*  
 🚀 Let's **collaborate** and build something **awesome** together!  
