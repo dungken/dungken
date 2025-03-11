@@ -100,8 +100,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dungken&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=dungken&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dungken" alt="GitHub Streak" /></a>
 </p>
 
 
