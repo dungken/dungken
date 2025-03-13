@@ -62,38 +62,6 @@
   </tr>
 </table>
 
-<br/>
-
-
-## 📹 Video YouTube  
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://youtu.be/JjpZ3l6eFXI?si=6_NZnmpvrmVef2hh" target="_blank">
-        <img src="https://i.ytimg.com/vi/JjpZ3l6eFXI/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5OHT00hZb_1NmIU_WorRM3904tw" alt="Video 1" width="400px" style="border-radius: 10px;"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=nI6VmPNKK3c&list=PLrEoeRRboYhTMhudOe8WVVYa9Z6c6xIjK&index=27&pp=iAQB" target="_blank">
-        <img src="https://i.ytimg.com/vi/nI6VmPNKK3c/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA3CMuMIztVG8upkGUS5dFtSHupkw" alt="Video 2" width="400px" style="border-radius: 10px;"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=gj8TdKtADm4&list=PLrEoeRRboYhTMhudOe8WVVYa9Z6c6xIjK&index=29&pp=iAQB" target="_blank">
-        <img src="https://i.ytimg.com/vi/gj8TdKtADm4/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6Uv23s65bRXa1j4HO0qep_e9c1w" alt="Video 3" width="400px" style="border-radius: 10px;"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=ibT0tpGrf2A&list=PLrEoeRRboYhTMhudOe8WVVYa9Z6c6xIjK&index=32&t=103s&pp=iAQB" target="_blank">
-        <img src="https://i.ytimg.com/vi/ibT0tpGrf2A/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDu0fHXtb78l0IY3k5L7vUIjaYTUg" alt="Video 4" width="400px" style="border-radius: 10px;"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 
 <br/>
 
