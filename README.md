@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer from Vietnam 🇻🇳</h3>
 
 ## 🔹 About Me  
-🎓 4rd-year student at **University of Transport and Communications, HCMC**  
+🎓 4th-year student at **University of Transport and Communications, HCMC**  
 💡 Passionate about **Software Development, Data, AI, and Cloud Computing**  
 📌 Always eager to explore new technologies and best practices  
 
